@@ -3,7 +3,7 @@ let timbo = {};
 
 timbo.name = "Victor Silva";
 
-timbo.photo = 'images/Victor.png';
+timbo.photo = 'images/victor.png';
 
 timbo.favoriteFoods = ["Barbecue", "Lasagna", "Garlic Bread"];
 
