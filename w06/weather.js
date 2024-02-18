@@ -1,7 +1,7 @@
 function getInput() {
     let cityName = document.querySelector("#input").value;
     const url = `http://api.weatherapi.com/v1/forecast.json?key=79407614135f4330b91132311212010&q=${cityName}&days=1&aqi=no&alerts=yes`;
-    getApi(url);
+    getApi(url)
 };
 
 function getApi(url) {
